@@ -3,6 +3,8 @@
 	📖 libft
 </h1>
 
+### 🗝️ Original in [**Russian**](https://github.com/AYglazk0v/libft/blob/master/README.md)
+
 ## 💡 About the project:
 
 > _The goal of the project is to implement a library of frequently used functions._
@@ -60,5 +62,3 @@ ft_strtrim.c
 ft_substr.c  
 ft_tolower.c  
 ft_toupper.c
-
-## Original in [**Russian**](https://github.com/AYglazk0v/libft/blob/master/README.md)
