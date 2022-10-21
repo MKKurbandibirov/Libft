@@ -60,3 +60,5 @@ ft_strtrim.c
 ft_substr.c  
 ft_tolower.c  
 ft_toupper.c
+
+Original in [**Russian**](https://github.com/AYglazk0v/libft/blob/master/README.md)
